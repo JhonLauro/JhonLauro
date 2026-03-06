@@ -5,4 +5,10 @@
 
 ---
 
+Name : Jhon Gil Lauro
+Alias : JhonLauro
+Role : Student | Developer
+Status : [ ACTIVE ]
+Bio : I make stuff
+
 ### `root@JhonLauro:~$` cat about.txt
