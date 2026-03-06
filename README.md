@@ -14,3 +14,19 @@ Status : [ ACTIVE ]
 Bio : I make stuff
 ```
 **[OK] System initialized.**
+
+---
+
+### `$ ls skills/`
+```
+root@JhonLauro:~$ ls -la skills/
+drwxr-xr-x languages/
+├── [ JS ] JavaScript
+├── [ PY ] Python
+├── [ KT ] Kotlin
+└── [ JV ] Java
+drwxr-xr-x frameworks/
+├── [ RC ] React
+└── [ VT ] Vite
+```
+[OK] 6 packages found.
