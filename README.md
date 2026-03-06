@@ -59,11 +59,11 @@ git clone https://github.com/JhonLauro/BookMate
 Cloning into 'BookMate'... done.
 ```
 
-[![View Repo](https://img.shields.io/badge/VIEW_REPO-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JhonLauro/BookMate)
+[![View Repo](https://img.shields.io/badge/🐙_VIEW_REPO-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JhonLauro/BookMate) **BOOKMATE**
 
 ---
 
-### `📁 ~/projects/SMARTPARK` 
+### `📁 ~/projects/SMARTPARK`
 
 ```
 
@@ -80,7 +80,7 @@ git clone https://github.com/JhonLauro/SMARTPARK
 Cloning into 'SMARTPARK'... done.
 ```
 
-[![View Repo](https://img.shields.io/badge/VIEW_REPO-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JhonLauro/SMARTPARK)
+[![View Repo](https://img.shields.io/badge/🐙_VIEW_REPO-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JhonLauro/SMARTPARK) **SMARTPARK**
 
 ---
 
@@ -99,7 +99,7 @@ Cloning into 'campusblog'... done.
 
 ```
 
-[![View Repo](https://img.shields.io/badge/VIEW_REPO-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JhonLauro/campusblog)
+[![View Repo](https://img.shields.io/badge/🐙_VIEW_REPO-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JhonLauro/campusblog) **CAMPUSBLOG**
 
 ---
 
@@ -119,8 +119,7 @@ Cloning into 'django-pos-system'... done.
 
 ```
 
-
-[![View Repo](https://img.shields.io/badge/VIEW_REPO-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JhonLauro/django-pos-system)
+[![View Repo](https://img.shields.io/badge/🐙_VIEW_REPO-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JhonLauro/django-pos-system) **DJANGO-POS-SYSTEM**
 
 ---
 
