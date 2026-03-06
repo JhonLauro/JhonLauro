@@ -59,7 +59,7 @@ git clone https://github.com/JhonLauro/BookMate
 Cloning into 'BookMate'... done.
 ```
 
-[![View Repo](https://img.shields.io/badge/VIEW_REPO-181717?style=for-the-badge&logo=github&logoColor=28a745)](https://github.com/JhonLauro/BookMate) **BOOKMATE**
+[![View Repo](https://img.shields.io/badge/VIEW_REPO-FFFFFF?style=for-the-badge&logo=github&logoColor=28a745&color=000000)](https://github.com/JhonLauro/BookMate) ![BOOKMATE](https://img.shields.io/badge/BOOKMATE-181717?style=for-the-badge&logoColor=white)
 
 ---
 
@@ -80,7 +80,7 @@ git clone https://github.com/JhonLauro/SMARTPARK
 Cloning into 'SMARTPARK'... done.
 ```
 
-[![View Repo](https://img.shields.io/badge/VIEW_REPO-181717?style=for-the-badge&logo=github&logoColor=28a745)](https://github.com/JhonLauro/SMARTPARK) **SMARTPARK**
+[![View Repo](https://img.shields.io/badge/VIEW_REPO-FFFFFF?style=for-the-badge&logo=github&logoColor=28a745&color=000000)](https://github.com/JhonLauro/SMARTPARK) ![SMARTPARK](https://img.shields.io/badge/SMARTPARK-181717?style=for-the-badge&logoColor=white)
 
 ---
 
@@ -99,7 +99,7 @@ Cloning into 'campusblog'... done.
 
 ```
 
-[![View Repo](https://img.shields.io/badge/VIEW_REPO-181717?style=for-the-badge&logo=github&logoColor=28a745)](https://github.com/JhonLauro/campusblog) **CAMPUSBLOG**
+[![View Repo](https://img.shields.io/badge/VIEW_REPO-FFFFFF?style=for-the-badge&logo=github&logoColor=28a745&color=000000)](https://github.com/JhonLauro/campusblog) ![CAMPUSBLOG](https://img.shields.io/badge/CAMPUSBLOG-181717?style=for-the-badge&logoColor=white)
 ---
 
 ### `📁 ~/projects/django-pos-system`
@@ -118,7 +118,7 @@ Cloning into 'django-pos-system'... done.
 
 ```
 
-![View Repo](https://img.shields.io/badge/VIEW_REPO-181717?style=for-the-badge&logo=github&logoColor=28a745)](https://github.com/JhonLauro/django-pos-system) **DJANGO-POS-SYSTEM**
+[![View Repo](https://img.shields.io/badge/VIEW_REPO-FFFFFF?style=for-the-badge&logo=github&logoColor=28a745&color=000000)](https://github.com/JhonLauro/django-pos-system) ![DJANGO-POS-SYSTEM](https://img.shields.io/badge/DJANGO--POS--SYSTEM-181717?style=for-the-badge&logoColor=white)
 
 ---
 
