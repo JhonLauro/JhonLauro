@@ -118,7 +118,7 @@ Cloning into 'django-pos-system'... done.
 
 ```
 
-![View Repo](https://img.shields.io/badge/VIEW_REPO-FFFFFF?style=for-the-badge&logo=github&logoColor=28a745)](https://github.com/JhonLauro/django-pos-system) ![DJANGO-POS-SYSTEM](https://img.shields.io/badge/DJANGO--POS--SYSTEM-181717?style=for-the-badge)
+[![View Repo](https://img.shields.io/badge/VIEW_REPO-FFFFFF?style=for-the-badge&logo=github&logoColor=28a745)](https://github.com/JhonLauro/django-pos-system) ![DJANGO-POS-SYSTEM](https://img.shields.io/badge/DJANGO--POS--SYSTEM-181717?style=for-the-badge)
 
 ---
 
