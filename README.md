@@ -30,4 +30,4 @@ drwxr-xr-x frameworks/
 ├── [ RC ] React
 └── [ VT ] Vite
 ```
-[OK] 6 packages found.
+**[OK] 6 Packages Found**
