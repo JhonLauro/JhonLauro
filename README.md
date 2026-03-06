@@ -141,11 +141,13 @@ Cloning into 'django-pos-system'... done.
 
 <div align="center">
 
-<pre>
-root@<span style="color: #28a745;">JhonLauro</span>:~$ echo "<span style="color: #dc3545;">Thanks for visiting.</span>"
-> <span style="color: #dc3545;">Thanks for visiting.</span>
-root@<span style="color: #28a745;">JhonLauro</span>:~$ █
-</pre>
+<div style="background: #0d1117; padding: 16px; border-radius: 6px; font-family: monospace;">
+  <span style="color: #28a745;">root@JhonLauro</span>:~$ echo "Thanks for visiting."
+  <br>
+  <span style="color: #f85149;">> Thanks for visiting.</span>
+  <br>
+  <span style="color: #28a745;">root@JhonLauro</span>:~$ <span style="background: #c9d1d9; color: #0d1117;">&nbsp;</span>
+</div>
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=JhonLauro&label=VISITORS&color=28a745&style=for-the-badge)
 
