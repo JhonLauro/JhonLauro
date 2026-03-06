@@ -145,5 +145,5 @@ Cloning into 'django-pos-system'... done.
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=JhonLauro&label=VISITORS&color=28a745&style=for-the-badge)
 
-</div>>
+</div>
 
