@@ -20,6 +20,7 @@ Bio : I make stuff
 ### `$ ls skills/`
 ```
 root@JhonLauro:~$ ls -la skills/
+
 drwxr-xr-x languages/
 ├── [ JS ] JavaScript
 ├── [ PY ] Python
