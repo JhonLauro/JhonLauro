@@ -141,15 +141,9 @@ Cloning into 'django-pos-system'... done.
 
 <div align="center">
 
-<div style="background: #0d1117; padding: 16px; border-radius: 6px; font-family: monospace;">
-  <span style="color: #28a745;">root@JhonLauro</span>:~$ echo "Thanks for visiting."
-  <br>
-  <span style="color: #f85149;">> Thanks for visiting.</span>
-  <br>
-  <span style="color: #28a745;">root@JhonLauro</span>:~$ <span style="background: #c9d1d9; color: #0d1117;">&nbsp;</span>
-</div>
+![Terminal](https://readme-jokes.vercel.app/api?bgColor=%230d1117&borderColor=%2330363d&promptColor=%2328a745&textColor=%23c9d1d9&height=100&hideBorder=true&hidePrompt=false&query=echo%20%22Thanks%20for%20visiting.%22)
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=JhonLauro&label=VISITORS&color=28a745&style=for-the-badge)
 
-</div>
+</div>>
 
