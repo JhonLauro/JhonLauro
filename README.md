@@ -129,12 +129,11 @@ Cloning into 'django-pos-system'... done.
 
 ### `$ neofetch`
 ```
-        _______
      //000000000//             Name     : Jhon Gil Lauro
-  //00000/////00000//          OS       : GitHub Profile
-//00000/////////00000//        Shell    : zsh
-//00000/////////00000//        Lang     : JavaScript • Python • Kotlin • Java
-  //00000/////00000//          Status   : Student | Developer
+  //000000000000000//          OS       : GitHub Profile
+//0000000000000000000//        Shell    : zsh
+//0000000000000000000//        Lang     : JavaScript • Python • Kotlin • Java
+  //000000000000000//          Status   : Student | Developer
      //000000000//             Uptime   : Indefinite
         
 ```
