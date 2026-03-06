@@ -26,6 +26,7 @@ drwxr-xr-x languages/
 ├── [ PY ] Python
 ├── [ KT ] Kotlin
 └── [ JV ] Java
+
 drwxr-xr-x frameworks/
 ├── [ RC ] React
 └── [ VT ] Vite
@@ -123,3 +124,35 @@ Cloning into 'django-pos-system'... done.
 ---
 
 **[OK] 4 repositories found.**
+
+---
+
+### `$ neofetch`
+```
+        _______
+     //000000000//             Name     : Jhon Gil Lauro
+  //00000/////00000//          OS       : GitHub Profile
+//00000/////////00000//        Shell    : zsh
+//00000/////////00000//        Lang     : JavaScript • Python • Kotlin • Java
+  //00000/////00000//          Status   : Student | Developer
+     //000000000//             Uptime   : Indefinite
+        
+```
+---
+
+<div align="center">
+
+```
+root@JhonLauro:~$ echo "Thanks for visiting."
+> Thanks for visiting.
+root@JhonLauro:~$ █
+```
+
+</div>
+
+<div align="center">
+
+![Visitor Count](https://komarev.com/ghpvc/?username=JhonLauro&label=VISITORS&color=28a745&style=for-the-badge)
+
+</div>
+
