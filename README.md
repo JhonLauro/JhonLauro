@@ -145,7 +145,6 @@ Cloning into 'django-pos-system'... done.
 root@JhonLauro:~$ echo "Thanks for visiting."
 > Thanks for visiting.
 root@JhonLauro:~$ █
-
 </div>
 
 <div align="center">
