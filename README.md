@@ -1,149 +1,151 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=00FF00&vCenter=true&width=435&lines=Hi+there!;JhonGilLauro;I+build+cool+stuff;%3E+Rendering+reality...;%3E+Debugging+existence...)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Hi+there!;I'm+Jhon+Gil+Lauro;%3E+Tracing+root+causes...;%3E+From+circuit+boards+to+code...;%3E+Shipping+real+projects...)](https://git.io/typing-svg)
+
+[![Trevora](https://img.shields.io/badge/LIVE-TREVORA.APP-28a745?style=for-the-badge)](https://www.trevora.app)
+
 </div>
 
 ---
 
-### `root@JhonLauro:~$` cat about.txt
-``` 
-Name : Jhon Gil Lauro
-Alias : JhonLauro
-Role : Student | Developer
-Status : [ ACTIVE ]
-Bio : I make stuff
+### `root@JhonLauro:~$ cat about.txt`
+
 ```
+Name   : Jhon Gil Lauro
+Alias  : JhonLauro
+School : Cebu Institute of Technology - University
+Course : BS Information Technology, expected June 2027
+Roles  : Project Manager | Backend Developer | UI/UX Designer
+Bio    : I trace problems to the root cause, in code and in hardware.
+Status : [ OPEN TO OJT: software development / IT support ]
+```
+
 **[OK] System initialized.**
 
 ---
 
 ### `$ ls skills/`
+
 ```
-root@JhonLauro:~$ ls -la skills/
+root@JhonLauro:~$ tree skills/
 
-drwxr-xr-x languages/
-├── [ JS ] JavaScript
-├── [ PY ] Python
-├── [ KT ] Kotlin
-└── [ JV ] Java
-
-drwxr-xr-x frameworks/
-├── [ RC ] React
-└── [ VT ] Vite
-```
-**[OK] 6 Packages Found.**
-
----
-
-### `$ ls projects/`
-```
-root@JhonLauro:~$ ls -la projects/
-
-drwxr-xr-x 4 jhonlauro staff 128 Mar 06 2026 .
-drwxr-xr-x 2 jhonlauro staff 64 Mar 06 2026 ..
+skills/
+├── languages/
+│   └── Java • JavaScript • Python • Kotlin • SQL
+├── frontend/
+│   └── React • Vite • Tailwind CSS
+├── backend/
+│   └── Spring Boot • Django • REST APIs
+├── mobile/
+│   └── React Native • Android Studio
+├── cloud_and_data/
+│   └── PostgreSQL • Supabase • Render • AWS fundamentals
+├── tools/
+│   └── Git • Docker • Maven • Gradle
+└── it_support/
+    ├── PC assembly and troubleshooting • Windows Server
+    └── Cisco routing and switching • Packet Tracer
 ```
 
 ---
 
-### `📁 ~/projects/BookMate` 
+### `📁 ~/projects/Trevora`
 
 ```
-root@JhonLauro:~/projects$ cat BookMate/README.md
+[PROJECT] Trevora - Vehicle Service History
+[TYPE]    Capstone • Team of 5
+[ROLE]    Project Manager • Backend Developer • UI/UX Designer
+[STACK]   React • Spring Boot • Supabase • Cloud Vision • OpenAI
+[STATUS]  Live
+[DESC]    Turns receipts and voice notes into service records
+          that vehicle owners review and keep.
+```
 
+[![Visit Site](https://img.shields.io/badge/VISIT_SITE-28a745?style=for-the-badge)](https://www.trevora.app)
+
+---
+
+### `📁 ~/projects/timeout-pickleball`
+
+```
+[PROJECT] Timeout Pickleball - Court Booking
+[TYPE]    Client project • Toledo City, Cebu
+[STACK]   React • Supabase
+[STATUS]  In progress • Private repository
+[DESC]    Hourly court reservations with an owner dashboard
+          for schedules, prices and booking rules.
+```
+
+---
+
+### `📁 ~/projects/call-a-mechanic`
+
+```
+[PROJECT] Call-A-Mechanic
+[TYPE]    Academic project • Web and Android
+[STACK]   React • Spring Boot • Kotlin • Docker
+[DESC]    Connects vehicle owners with mechanics.
+```
+
+[![Web App](https://img.shields.io/badge/WEB_APP-181717?style=for-the-badge&logo=github)](https://github.com/JhonLauro/Call-A-Mechanic-Web-Applicaiton)
+[![Android App](https://img.shields.io/badge/ANDROID_APP-181717?style=for-the-badge&logo=github)](https://github.com/JhonLauro/CallAMechanic_Android_Application)
+
+---
+
+### `📁 ~/projects/smartpark`
+
+```
+[PROJECT] SmartPark - School Parking Management System
+[TYPE]    Academic project • Team of 3
+[ROLE]    Full-Stack Developer • UI/UX Designer
+[STACK]   React • Spring Boot • PostgreSQL
+[DESC]    Slot monitoring, reservations and an admin dashboard.
+```
+
+---
+
+### `📁 ~/projects/bookmate`
+
+```
 [PROJECT] BookMate
-[STACK] Python • Django • PostgreSQL
-[STATUS] Public • 98 commits
-[DESC] A web-based platform to help readers log, rate, and track their books
-with personalized recommendations and community features.
-git clone https://github.com/JhonLauro/BookMate
-
-Cloning into 'BookMate'... done.
+[TYPE]    Team project
+[STACK]   Python • Django • PostgreSQL
+[DESC]    Log, rate and track books, with recommendations
+          and community features.
 ```
 
-[![View Repo](https://img.shields.io/badge/VIEW_REPO-FFFFFF?style=for-the-badge&logo=github&logoColor=28a745)](https://github.com/JhonLauro/BookMate) ![BOOKMATE](https://img.shields.io/badge/BOOKMATE-181717?style=for-the-badge)
+[![View Repo](https://img.shields.io/badge/VIEW_REPO-181717?style=for-the-badge&logo=github)](https://github.com/JhonLauro/BookMate)
 
 ---
 
-### `📁 ~/projects/SMARTPARK`
+### `$ cat achievements.log`
 
 ```
-
-root@JhonLauro:~/projects$ cat SMARTPARK/README.md
-
-[PROJECT] SMARTPARK - School Parking Management System
-[STACK] React.js • Spring Boot • RESTful API
-[STATUS] Public • 119 commits
-[DESC] A web-based application to help schools efficiently manage parking
-spaces for students, staff, and visitors. Real-time monitoring,
-slot reservation, and admin dashboard.
-git clone https://github.com/JhonLauro/SMARTPARK
-
-Cloning into 'SMARTPARK'... done.
+[2026-11] AWS Academy Graduate - Generative AI Foundations
+[2026-10] AWS Academy Graduate - Cloud Foundations
+[2026-07] IBM SkillsBuild - Artificial Intelligence Fundamentals
+[2026-04] Finalist - EY GDS ServiceNow Hackathon
+[2025-11] ASEAN Foundation - AI Ready ASEAN
+[2025-11] Kaggle Learn - Data Visualization
 ```
-
-[![View Repo](https://img.shields.io/badge/VIEW_REPO-FFFFFF?style=for-the-badge&logo=github&logoColor=28a745)](https://github.com/JhonLauro/SMARTPARK) ![SMARTPARK](https://img.shields.io/badge/SMARTPARK-181717?style=for-the-badge)
-
----
-
-### `📁 ~/projects/campusblog`
-
-``` 
-root@JhonLauro:~/projects$ cat campusblog/README.md
-
-[PROJECT] campusblog
-[STACK] Python
-[STATUS] Public
-[DESC] A blogging platform for campus
-git clone https://github.com/JhonLauro/campusblog
-
-Cloning into 'campusblog'... done.
-
-```
-[![View Repo](https://img.shields.io/badge/VIEW_REPO-FFFFFF?style=for-the-badge&logo=github&logoColor=28a745)](https://github.com/JhonLauro/campusblog) ![CAMPUSBLOG](https://img.shields.io/badge/CAMPUSBLOG-181717?style=for-the-badge)
-
----
-
-### `📁 ~/projects/django-pos-system`
-
-```
-
-root@JhonLauro:~/projects$ cat django-pos-system/README.md
-
-[PROJECT] django-pos-system
-[STACK] Python • Django
-[STATUS] Public • Practice Project
-[DESC] Point of sale system
-git clone https://github.com/JhonLauro/django-pos-system
-
-Cloning into 'django-pos-system'... done.
-
-```
-
-[![View Repo](https://img.shields.io/badge/VIEW_REPO-FFFFFF?style=for-the-badge&logo=github&logoColor=28a745)](https://github.com/JhonLauro/django-pos-system) ![DJANGO-POS-SYSTEM](https://img.shields.io/badge/DJANGO--POS--SYSTEM-181717?style=for-the-badge)
-
----
-
-**[OK] 4 repositories found.**
 
 ---
 
 ### `$ neofetch`
+
 ```
      //000000000//             Name     : Jhon Gil Lauro
   //000000000000000//          OS       : GitHub Profile
 //0000000000000000000//        Shell    : zsh
-//0000000000000000000//        Lang     : JavaScript • Python • Kotlin • Java
-  //000000000000000//          Status   : Student | Developer
+//0000000000000000000//        Lang     : Java • JavaScript • Python • Kotlin
+  //000000000000000//          Focus    : Backend • UI/UX • IT Support
      //000000000//             Uptime   : Indefinite
-        
 ```
----
 
 <div align="center">
 
-![Terminal](https://readme-jokes.vercel.app/api?bgColor=%230d1117&borderColor=%2330363d&promptColor=%2328a745&textColor=%23c9d1d9&height=100&hideBorder=true&hidePrompt=false&query=echo%20%22Thanks%20for%20visiting.%22)
+`$ echo "Thanks for visiting."`
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=JhonLauro&label=VISITORS&color=28a745&style=for-the-badge)
 
 </div>
-
